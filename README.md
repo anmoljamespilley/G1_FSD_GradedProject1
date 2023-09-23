@@ -17,16 +17,19 @@ Contains 4 departments as four different object classes, Super Department class 
 3) getWorkDeadline
 4) isTodayAHoliday
    
-departmentName will return “ Super Department “ getTodaysWork will return “ No Work as of now” getWorkDeadline will return “ Nil “
-isTodayAHoliday will return “ Today is not a holiday”
+departmentName will return “Super Department“<br>
+getTodaysWork will return “No Work as of now”<br>
+getWorkDeadline will return “Nil“<br>
+isTodayAHoliday will return “Today is not a holiday”<br>
 
 → Admin department will contain 3 methods of return type String and will not accept any parameter
 1) departmentName
 2) getTodaysWork
 3) getWorkDeadline
    
-departmentName will return “ Admin Department “
-getTodaysWork will return “Complete your documents Submission” getWorkDeadline will return “ Complete by EOD “
+departmentName will return “Admin Department“<br>
+getTodaysWork will return “Complete your documents Submission”<br>
+getWorkDeadline will return “Complete by EOD“
 
 → Hr department will contain 4 methods of return type String and will not accept any parameter
 1) departmentName
@@ -34,9 +37,10 @@ getTodaysWork will return “Complete your documents Submission” getWorkDeadli
 3) getWorkDeadline
 4) doActivity
  
- departmentName will return “ Hr Department “
-getTodaysWork will return “ Fill today’s timesheet and mark your attendance” getWorkDeadline will return “ Complete by EOD “
-doActivity “team Lunch”
+departmentName will return “Hr Department“<br>
+getTodaysWork will return “Fill today’s timesheet and mark your attendance”<br>
+getWorkDeadline will return “Complete by EOD“<br>
+doActivity “team Lunch”<br>
 
 → Tech department will contain 4 methods of return type String and will not accept any parameter
 1) departmentName
@@ -44,7 +48,10 @@ doActivity “team Lunch”
 3) getWorkDeadline
 4) getTechStackInformation
    
-departmentName will return “ Tech Department “ getTodaysWork will return “ Complete coding of module 1” getWorkDeadline will return “ Complete by EOD “ getTechStackInformation will return “core Java”
+departmentName will return “Tech Department“<br>
+getTodaysWork will return “Complete coding of module 1”<br>
+getWorkDeadline will return “Complete by EOD“<br>
+getTechStackInformation will return “core Java”<br>
 
 → Driver class Main will be used to create objects of HrDepartment, TechDepartment, AdminDepartment<br>
 → Each department will display all its functionalities.<br>
