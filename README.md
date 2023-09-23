@@ -1,8 +1,9 @@
 # G1_FSD_GradedProject1
 Contains 4 departments as four different object classes, Super Department class is the superclass and all other departments must extend it
 
- Problem Statement
+ Problem Statement<br>
  → The assignment will contain 4 departments as four different object classes
+ 
 1) Super Department
 2) Admin Department
 3) Hr Department
@@ -45,9 +46,9 @@ doActivity “team Lunch”
    
 departmentName will return “ Tech Department “ getTodaysWork will return “ Complete coding of module 1” getWorkDeadline will return “ Complete by EOD “ getTechStackInformation will return “core Java”
 
-→ Driver class Main will be used to create objects of HrDepartment, TechDepartment, AdminDepartment
-→ Each department will display all its functionalities.
-→ Each department will display whether today is a holiday or not with the help of the Super Department. (SuperDepartment will act as a super class for all the departments)
+→ Driver class Main will be used to create objects of HrDepartment, TechDepartment, AdminDepartment<br>
+→ Each department will display all its functionalities.<br>
+→ Each department will display whether today is a holiday or not with the help of the Super Department. (SuperDepartment will act as a super class for all the departments)<br>
 
 Expected Output:<br>
 Welcome to Admin Department<br>
