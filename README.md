@@ -2,7 +2,7 @@
 Contains 4 departments as four different object classes, Super Department class is the superclass and all other departments must extend it
 
  Problem Statement
-→ The assignment will contain 4 departments as four different object classes
+ → The assignment will contain 4 departments as four different object classes
 1) Super Department
 2) Admin Department
 3) Hr Department
@@ -49,7 +49,7 @@ departmentName will return “ Tech Department “ getTodaysWork will return “
 → Each department will display all its functionalities.
 → Each department will display whether today is a holiday or not with the help of the Super Department. (SuperDepartment will act as a super class for all the departments)
 
- Expected Output
+Expected Output
 Welcome to Admin Department Complete your documents submission Complete by EOD
 Today is not a Holiday
 Welcome to HR Department
