@@ -5,7 +5,7 @@ Contains 4 departments as four different object classes, Super Department class 
 → The assignment will contain 4 departments as four different object classes
 1) Super Department
 2) Admin Department
-3) 3) Hr Department
+3) Hr Department
 4) Tech Department
    
 → Super Department class will be the superclass and all other departments must extend it.
