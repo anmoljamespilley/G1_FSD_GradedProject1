@@ -49,13 +49,18 @@ departmentName will return “ Tech Department “ getTodaysWork will return “
 → Each department will display all its functionalities.
 → Each department will display whether today is a holiday or not with the help of the Super Department. (SuperDepartment will act as a super class for all the departments)
 
-Expected Output
-Welcome to Admin Department Complete your documents submission Complete by EOD
+Expected Output:
+Welcome to Admin Department
+Complete your documents submission
+Complete by EOD
 Today is not a Holiday
+
 Welcome to HR Department
 team Lunch
 Fill today’s timesheet and mark your attendance Complete by EOD
 Today is not a Holiday
-Welcome to Tech Department Complete coding of Module 1 Complete by EOD
+
+Welcome to Tech Department
+Complete coding of Module 1 Complete by EOD
 Core Java
 Today is not a Holiday
